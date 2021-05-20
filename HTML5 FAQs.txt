@@ -1,0 +1,17 @@
+1.What is HTML5?
+
+2.What are the New tags in Media Elements in HTML5?
+
+3.What is image map in html5?
+
+4.How do you write a copyright symbol on a web browser page?
+
+5.How to optimize website assets?
+
+6.What is the use of MathML Element in HTML5?
+
+7.What are the various formatting tags in HTML5?
+
+8.why do we use HTML5?
+
+9.What is a hyperlink? Does it only apply to text?
